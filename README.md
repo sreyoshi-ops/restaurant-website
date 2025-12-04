@@ -5,13 +5,13 @@ A responsive and interactive restaurant website built with HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-[Click here to view the live site]
+
 
 ---
 
 ## 📸 Preview
 
-![Website Screenshot](screenshot.png)  
+
 
 ---
 
